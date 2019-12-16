@@ -10,5 +10,5 @@ To learn more from USA baby names, this exploration shows following questions:
 <hr>
 
 Features: time series, prediction.
-Reference: [Python For Data] [1]
-[1]: https://www.oreilly.com/library/view/python-for-data/9781491957653/
+
+Reference: [Python For Data](https://www.oreilly.com/library/view/python-for-data/9781491957653/)
