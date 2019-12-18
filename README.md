@@ -3,9 +3,9 @@
 <hr>
 
 To learn more from USA baby names, this exploration shows following questions:
-- To visualize a specific name over time.
-- To rank names.
-- To find ten the hottest names, highest growtha and declined names.
+- To **visualize** a specific name over time.
+- To rank names and find the highest growth and declined ones.
+- To **predict** the ten hottest names in 2018.
 
 <hr>
 
