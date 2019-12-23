@@ -14,7 +14,7 @@ This project can assist you to:
 - Show the rank of your desired name births
 - Estimate the margin percentage of your desired name in the same year
 - Show your desired your girl(boy) with boy's(girl's) name as well
-- Predict how many is your desired name in 20XX (TODO)
+- Predict how many is your desired name in 20XX *TODO*
 
 <hr>
 
